@@ -1,0 +1,1 @@
+export const menuItems = ["Store", "Mac", "iPhone", "Watch", "Vision", "Airpods"];
